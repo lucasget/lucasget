@@ -32,5 +32,5 @@ Me chamo Lucas Belmonte Alves, sou graduando em Engenharia da Computação na UF
 ### 📊 Estatísticas
 
 <p align="left">
-    <img alt="Estatísticas do GitHub" src="https://github-stats-extended.vercel.app/api?user=lucasget" />
+    <img alt="Estatísticas do GitHub" src="https://github-stats-extended.vercel.app/api?username=lucasget" />
 </p>
