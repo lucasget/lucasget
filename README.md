@@ -6,7 +6,7 @@ Me chamo Lucas Belmonte Alves, sou graduando em Engenharia da Computação na UF
 
 <p align="left">
     <a href="https://www.linkedin.com/in/lucasbelmontealves">
-        <img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
+        <img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 </p>
 
@@ -32,6 +32,5 @@ Me chamo Lucas Belmonte Alves, sou graduando em Engenharia da Computação na UF
 ### 📊 Estatísticas
 
 <p align="left">
-  <img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lucasget&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;locale=pt-br" />
-  <img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasget&amp;theme=tokyonight&amp;layout=compact&amp;custom_title=Tecnologias&amp;langs_count=9" />
+    <img alt="Estatísticas do GitHub" src="https://github-stats-extended.vercel.app/api?user=lucasget" />
 </p>
