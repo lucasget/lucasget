@@ -1,4 +1,4 @@
-# 🖥️ Lucas Belmonte Alves
+# Lucas Belmonte Alves
 
 **`Machine Learning Engineer`**
 
@@ -12,7 +12,7 @@ Me chamo Lucas Belmonte Alves, sou graduando em Engenharia da Computação na UF
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <p align="left">
     <img alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -29,7 +29,7 @@ Me chamo Lucas Belmonte Alves, sou graduando em Engenharia da Computação na UF
     <img alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 </p>
 
-### 📊 Estatísticas
+### Estatísticas
 
 <p>
     <img align="left" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=lucasget&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true" height="200" style="padding-right: 10px;" />
